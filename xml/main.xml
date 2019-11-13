@@ -1,0 +1,22 @@
+<VAST version="2.0">
+    <Ad>
+        <InLine>
+            <Creatives>
+                <Creative id="1">
+                    <Linear>
+                        <Duration>00:00:06</Duration>
+                        <AdParameters>
+                            <![CDATA[{"video": "https://cdn.jsdelivr.net/gh/medyika/static@latest/videos/main.mp4", "skipBtn": 10}]]>
+                        </AdParameters>
+                        <TrackingEvents/>
+                        <MediaFiles>
+                            <MediaFile id="3022295" height="404" width="720" bitrate="" type="application/javascript" delivery="progressive" maintainAspectRatio="true" scalable="true" apiFramework="VPAID">
+                                <![CDATA[https://cdn.jsdelivr.net/gh/medyika/static@latest/js/vpaid.js]]>
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+</VAST>
