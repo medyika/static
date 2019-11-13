@@ -6,7 +6,7 @@
                     <Linear>
                         <Duration>00:00:06</Duration>
                         <AdParameters>
-                            <![CDATA[{"video": "https://cdn.jsdelivr.net/gh/medyika/static@latest/videos/main.mp4", "skipBtn": 10}]]>
+                            <![CDATA[{"video": "https://cdn.jsdelivr.net/gh/medyika/static@latest/videos/main.mp4", "skipOffset": 10}]]>
                         </AdParameters>
                         <TrackingEvents/>
                         <MediaFiles>
