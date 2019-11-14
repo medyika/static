@@ -6,12 +6,12 @@
                     <Linear>
                         <Duration>00:00:06</Duration>
                         <AdParameters>
-                            <![CDATA[{"video": "https://cdn.jsdelivr.net/gh/medyika/static@latest/videos/bumper.mp4", "skipOffset": 0}]]>
+                            <![CDATA[{"video": "https://cdn.jsdelivr.net/gh/medyika/static@latest/videos/bumper.mp4", "skipOffset": 0, "clkThru": "https://medyika.com/"}]]>
                         </AdParameters>
                         <TrackingEvents/>
                         <MediaFiles>
                             <MediaFile id="3022295" height="404" width="720" bitrate="" type="application/javascript" delivery="progressive" maintainAspectRatio="true" scalable="true" apiFramework="VPAID">
-                                <![CDATA[https://cdn.jsdelivr.net/gh/medyika/static@latest/js/vpaid.js]]>
+                                <![CDATA[https://cdn.jsdelivr.net/gh/medyika/static@7fba76cc/js/vpaid.js]]>
                             </MediaFile>
                         </MediaFiles>
                     </Linear>
