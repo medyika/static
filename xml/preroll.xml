@@ -11,7 +11,7 @@
                         <TrackingEvents/>
                         <MediaFiles>
                             <MediaFile id="3022295" height="404" width="720" bitrate="" type="application/javascript" delivery="progressive" maintainAspectRatio="true" scalable="true" apiFramework="VPAID">
-                                <![CDATA[https://cdn.jsdelivr.net/gh/medyika/static@7fba76cc/js/vpaid.js]]>
+                                <![CDATA[https://cdn.jsdelivr.net/gh/medyika/static@0ab217f3/js/vpaid.js]]>
                             </MediaFile>
                         </MediaFiles>
                     </Linear>
