@@ -1,0 +1,22 @@
+<VAST version="2.0">
+    <Ad>
+        <InLine>
+            <Creatives>
+                <Creative id="" AdID="" sequence="1">
+                    <Linear>
+                        <Duration>00:05:52</Duration>
+                        <AdParameters>
+                            <![CDATA[{"vid": "guh3IW4S-0k"}]]>
+                        </AdParameters>
+                        <TrackingEvents/>
+                        <MediaFiles>
+                            <MediaFile id="3022295" height="480" width="640" bitrate="" type="application/javascript" delivery="progressive" maintainAspectRatio="true" scalable="true" apiFramework="VPAID">
+                                <![CDATA[https://cdn.jsdelivr.net/gh/medyika/static@latest/js/vpaid-seed-adapter.js]]>
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+</VAST>
